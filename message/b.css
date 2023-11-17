@@ -1,4 +1,4 @@
-@media screen and (max-width:750px) and (min-width:500px){
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>@media screen and (max-width:750px) and (min-width:500px){
     .keyboard{
       zoom: 0.7;
   
